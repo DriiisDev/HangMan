@@ -1,0 +1,2 @@
+# HangMan
+a simple game
